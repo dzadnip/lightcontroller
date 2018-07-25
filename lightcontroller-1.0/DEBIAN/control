@@ -2,8 +2,9 @@ Package: LightController
 Version: 1.0
 Architecture: all
 Maintainer: Denis Zadniprovskiy <dzadnip@microsoft.com>
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: python3
 Installed-Size: 1.5
 Homepage: http://aka.ms
 Description: Light Controller
  Light Controller script for Raspberry Pi
+ 
